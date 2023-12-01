@@ -1,3 +1,9 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .rt {
-    font-weight: 800;
+    font-weight: 900;
+    font-style: italic;
+    font-style: underline;
 }
