@@ -5,5 +5,13 @@
 .rt {
     font-weight: 900;
     font-style: italic;
+    text-align: center;
 }
 
+.ingr {
+    background-color: rgb(221, 246, 255);
+    margin: 24px;
+    padding: 24px 8px;
+    margin-right: auto;
+    border
+}
